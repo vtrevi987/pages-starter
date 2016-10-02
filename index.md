@@ -14,15 +14,15 @@ website.
 3. Edit the `_config.yml` file
 
 {% highlight yaml %}
-title: Hack on GitHub Pages
+title: {{ site.title }}
 description: >
-  This site will get you started hacking with GitHub Pages.
-baseurl: "/tamuhack" # the subpath of your site
-url: "https://steveortiz.github.io"
-email: steve@ortizaggies.com
-github_username:  steveortiz
-linkedin_username: trustycoder
-twitter_username: trustycoder
+  {{ site.description | rstrip }}
+baseurl: "{{ site.baseurl }}" # the subpath of your site
+url: "{{ site.url }}"
+email: {{ site.email }}
+github_username:  {{ site.github_username }}
+linkedin_username: {{ site.linkedin_username }}
+twitter_username: {{ site.twitter_username }}
 {% endhighlight %}
 
 That's it! You should now have a website of your own.
