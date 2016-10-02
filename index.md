@@ -27,7 +27,7 @@ twitter_username: trustycoder
 
 That's it! You should now have a website of your own.
 
-https://`your github username`.github.io/tamuhack
+https://`your github username`.github.io/tamuhack/
 
 There's so much more you can do with GitHub Pages, so don't stop here.
 Explore the code in this project and start making it your own.
