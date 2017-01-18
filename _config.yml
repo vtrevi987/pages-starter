@@ -17,11 +17,11 @@ title: Hack on GitHub Pages
 description: >
   This site will get you started hacking with GitHub Pages.
 baseurl: "/tamuhack" # the subpath of your site
-url: "https://steveortiz.github.io"
+url: "https://chesshacker.github.io"
 email: steve@ortizaggies.com
-github_username:  steveortiz
-linkedin_username: trustycoder
-twitter_username: trustycoder
+github_username:  chesshacker
+linkedin_username: chesshacker
+twitter_username: chesshacker
 
 # Build settings
 markdown: kramdown

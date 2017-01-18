@@ -10,7 +10,7 @@ possible with GitHub Pages. In just 3 simple steps, you will have your own
 website.
 
 1. [Create a Github account](https://github.com/join)
-2. [Fork this repository](https://github.com/steveortiz/tamuhack/fork)
+2. [Fork this repository](https://github.com/chesshacker/tamuhack/fork)
 3. Edit the `_config.yml` file
 
 {% highlight yaml %}
