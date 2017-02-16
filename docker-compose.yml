@@ -7,7 +7,4 @@ services:
      ports:
        - "4000:4000"
      restart: always
-     environment:
-       POLLING: "true"
-       VERBOSE: "true"
-     command: jekyll serve
+     command: jekyll serve --force_polling
