@@ -16,7 +16,7 @@
 title: Hack on GitHub Pages
 description: >
   This site will get you started hacking with GitHub Pages.
-baseurl: "/tamuhack" # the subpath of your site
+baseurl: "/pages-starter" # the subpath of your site
 url: "https://chesshacker.github.io"
 email: steve@ortizaggies.com
 github_username:  chesshacker
